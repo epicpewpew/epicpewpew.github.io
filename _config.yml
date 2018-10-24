@@ -1,0 +1,19 @@
+# Site settings
+title: epicpewpew
+description: epicpewpew, zimbabwe, hacker
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: epicpewpew
+user_description: Consulting Digital Mercenary
+user_title: does things
+email: misterepicpewpew@gmail.com
+twitter_username: epicpewpew
+github_username:  epicpewpew
+
+# Google-analytics
+google-analytics:
+  id: "UA-128078964-1"
+
+exclude: ['package.json', 'src' , 'node_modules']
